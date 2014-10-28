@@ -1,4 +1,4 @@
-casadi-examples
+CasADi Examples
 ===============
 
 This repository contains examples for using CasADi, mostly on topics discussed in different lectures of BAaE.
